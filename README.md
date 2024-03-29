@@ -1,6 +1,10 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+## 다룰 수 있는 언어 및 툴
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wnsdud1302)](https://git.io/streak-stats)
 <!--
 **wnsdud1302/wnsdud1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
