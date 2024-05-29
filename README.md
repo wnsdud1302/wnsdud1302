@@ -19,10 +19,10 @@
 - flask 및 django
 
 ## 🔭 제가 수행한 프로젝트들....
-- d-origin 건축사무소 홈페이지(프론트 백엔드)
-- flask를 이용한 간단한 개인 지하철 서버
-- 반복가능 타이머 aka 인터벌 트레이닝 타이머(iOS 및 애플워치용)
-- 컴퓨터 비전을 이용한 개인 트레이너(iOS 앱)
+- d-origin 건축사무소 홈페이지([프론트](https://github.com/wnsdud1302/d-origin-client.git) [백엔드](https://github.com/wnsdud1302/d-origin-server.git))[홈페이지](https://d-origin.kr)
+- flask를 이용한 간단한 개인 지하철 서버[github](https://github.com/wnsdud1302/transit-server.git)
+- 반복가능 타이머 aka 인터벌 트레이닝 타이머(iOS 및 애플워치용)[github](https://github.com/wnsdud1302/HITTimer.git)
+- 컴퓨터 비전을 이용한 개인 트레이너(iOS 앱)[github](https://github.com/wnsdud1302/graduateProject.git)
 - 학교과제(운영체제, 커널프로그래밍, 인공지능)
 
 
