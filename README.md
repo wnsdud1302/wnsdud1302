@@ -16,6 +16,7 @@
 - react 및 next.js
 - iOS 관련 프레임워크(swiftui, uikit, coredata등)
 - tensorflow
+- flask 및 django
 
 ## 🔭 제가 수행한 프로젝트들....
 - d-origin 건축사무소 홈페이지(프론트 백엔드)
