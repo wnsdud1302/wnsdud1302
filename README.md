@@ -15,8 +15,7 @@
 - springboot
 - react 및 next.js
 - iOS 관련 프레임워크(swiftui, uikit, coredata등)
-- tensorflow
-- flask 및 django
+- flask
 
 ## 🔭 제가 수행한 프로젝트들....
 - d-origin 건축사무소 홈페이지([프론트](https://github.com/wnsdud1302/d-origin-client.git) [백엔드](https://github.com/wnsdud1302/d-origin-server.git)) [홈페이지](https://d-origin.kr)
